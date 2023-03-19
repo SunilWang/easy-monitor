@@ -1,0 +1,23 @@
+{
+  "name": "easy-monitor",
+  "version": "0.0.1",
+  "description": "简单监控 Node.js 客户端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SunilWang/easy-monitor.git"
+  },
+  "keywords": [
+    "monitor",
+    "easy-monitor"
+  ],
+  "author": "王澍 <ahwangshu@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "lodash": "^4.17.21"
+  }
+}
